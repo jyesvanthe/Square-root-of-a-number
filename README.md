@@ -28,7 +28,7 @@ root()
 
 ## Output:
 
-![Alt text](<Screenshot 2023-11-29 092506.png>)
+![Alt text](<Screenshot 2023-11-29 092506-1.png>)
 
 
 ## Result:
